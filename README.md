@@ -9,4 +9,5 @@ Features:
 -Realtime database  
 -Favorites tab  
   
+  ![alt text](https://github.com/matiasld/holter-monitor/blob/master/img/flowchart.png?raw=true)
   
