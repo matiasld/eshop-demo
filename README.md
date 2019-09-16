@@ -9,5 +9,5 @@ Features:
 -Realtime database  
 -Favorites tab  
   
-  ![alt text](https://github.com/matiasld/holter-monitor/blob/master/img/flowchart.png?raw=true)
+  ![alt text](https://github.com/matiasld/eshop-demo/blob/master/img/Screenshot_1568608157.png?raw=true)
   
