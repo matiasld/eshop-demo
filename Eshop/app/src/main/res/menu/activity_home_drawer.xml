@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/like_full_icon"
+            android:title="Favoritos" />
+    </group>
+
+    <item android:title="Versión: final">
+        <menu>
+            <item
+                android:id="@+id/nav_configuration"
+                android:icon="@drawable/ic_settings"
+                android:title="Acerca de esta App" />
+            <item
+                android:id="@+id/nav_ubication"
+                android:icon="@drawable/ic_map_black_24dp"
+                android:title="Donde estamos" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help_black_24dp"
+                android:visible="false"
+                android:title="Ayuda " />
+            <item
+                android:id="@+id/nav_log_out"
+                android:title="Cerrar Sesión"
+                />
+        </menu>
+    </item>
+
+</menu>

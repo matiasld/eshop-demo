@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4169E1</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#F90A61</color>
+    <color name="backgroundtext_card">#69292929</color>
+    <color name="background">#86FEFCDA</color>
+    <color name="back_button">#B6FFF3F3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="spinner">#86FFFCC9</color>
+    <color name="layout_background">#70C6CAD7</color>
+    <color name="transparent_toolbar">#3D000000</color>
+    <color name="whatsapp">#36D00C</color>
+    <color name="clear">#00000000</color>
+    <color name="category_background">#C7CFFF</color>
+</resources>
