@@ -1,5 +1,5 @@
 # E-Shop Mock-up:
-Android + Java
+## Android + Java
   
 Features:  
 - Login/User Creation screen  
