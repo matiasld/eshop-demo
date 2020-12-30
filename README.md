@@ -1,13 +1,14 @@
 # eshop-demo
-E-Shop Mock-up  
+E-Shop Mock-up
+Android + Java
   
-*Authentication, RT-Database implemented with Google Firebase.  
 Features:  
--Login/User Creation screen  
--Authentication via E-Mail  
--Profile preferences  
--Realtime database  
--Favorites tab  
+- Login/User Creation screen  
+- Authentication via E-Mail  
+- Profile preferences  
+- Realtime database  
+- Favorites tab  
+*(Authentication, RT-Database implemented with Google Firebase)
   
   ![alt text](https://github.com/matiasld/eshop-demo/blob/master/img/11.png?raw=true)
   ![alt text](https://github.com/matiasld/eshop-demo/blob/master/img/12.png?raw=true)
