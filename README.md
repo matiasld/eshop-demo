@@ -1,5 +1,4 @@
-# eshop-demo
-## E-Shop Mock-up:
+# E-Shop Mock-up:
 Android + Java
   
 Features:  
